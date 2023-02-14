@@ -1,0 +1,84 @@
+.soustitres1
+{
+ color: #0099CC;
+ font-family: "Times New Roman", Arial;
+ text-decoration: underline #0099CC;
+ text-align: left;
+}
+.paragraphesdessoustitre1
+{
+  text-align: justify;
+  color: black;
+  font-family: inherit,serif;
+}
+.paragraphe2
+{
+  text-align: center;
+  color: black;
+  font-family: inherit,serif;
+}
+.titre1, .titre2,.titre3
+{
+  text-align: center;
+  text-decoration: underline #33DC00;
+  font-family: Impact,sans-serif;
+  color: #33DC00;
+}
+.body1
+{
+  background-image: url(image/background/a1/article1.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+a
+{
+  font-style: italic;
+  color: black;
+}
+a:visited
+{
+  font-style: italic;
+  color: black;
+  text-decoration: underline black;
+}
+.headerfooter1,.headerfooterquisuisje,.headerfooterrecap,.headerfooter2,.headerfooter3
+{
+  background-color: #FF8600;
+    padding-bottom: 16px;
+}
+.flottante
+{
+  float: left;
+}
+.paragraphequisuisje
+{
+  text-align: justify;
+  color: #0099CC;
+  font-family: Trebuchet, serif;
+  font-size: 35px;
+  border: dashed red;
+  padding: 12px;
+}
+.quisuisjetitre
+{
+  text-align: center;
+  text-decoration: underline #33DC00;
+  font-family: Impact,sans-serif;
+  color: #33DC00;
+  }
+.recaptitre
+{
+  text-align: center;
+  text-decoration: underline #33DC00;
+  font-family: Impact,sans-serif;
+  color: #33DC00;
+
+}
+.divrecap
+{
+  font-size: 19px;
+  margin: 20px;
+  font-family: Georgia, serif;
+
+}
